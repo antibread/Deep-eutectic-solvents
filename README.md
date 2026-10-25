@@ -3,6 +3,7 @@ The objective of this thesis is to perform quantum-chemical modeling—using den
 To achieve this objective, the following tasks must be addressed:
 1. Optimize the geometry of the individual molecules (acrylic acid and choline chloride) as well as their complexes with varying stoichiometries. 
 2. Calculate the intermolecular interaction energies and hydrogen-bonding parameters for the complexes under study.
+
 .inp files contains input data for ORCA calculations
 .out files contaains output data (final single point energy and gibbs free energy)
 you can parse .out files by orca_outfile_parser.py
